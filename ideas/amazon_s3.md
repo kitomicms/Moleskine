@@ -1,0 +1,2 @@
+- [ ] https://devcenter.heroku.com/articles/s3
+- [ ] https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails
