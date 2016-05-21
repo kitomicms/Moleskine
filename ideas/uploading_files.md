@@ -1,0 +1,1 @@
+- [ ] [http://railscasts.com/episodes/253-carrierwave-file-uploads?autoplay=true]
