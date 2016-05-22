@@ -1,0 +1,1 @@
+- [ ] http://stackoverflow.com/questions/19877818/git-commit-m-vs-git-commit-am
