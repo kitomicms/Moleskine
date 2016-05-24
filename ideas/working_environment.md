@@ -7,4 +7,5 @@
 ### need to trace untracked files instead of unstaged files
 - [ ] http://stackoverflow.com/questions/2657935/checking-for-a-dirty-index-or-untracked-files-with-git
 - [ ] http://jersus.blogspot.hk/2014/01/showing-git-status-in-shell-with.html
-testing
+
+- [ ] https://coderwall.com/p/pn8f0g/show-your-git-status-and-branch-in-color-at-the-command-prompt
