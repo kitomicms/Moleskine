@@ -10,3 +10,6 @@
 
 ###THIS WORKS
 - [ ] https://coderwall.com/p/pn8f0g/show-your-git-status-and-branch-in-color-at-the-command-prompt
+
+### I want to know if pushed
+- Your branch is ahead of 'origin/master' by 1 commit.
